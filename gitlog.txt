@@ -1,0 +1,23 @@
+commit 35cbb014764ab410c06050183ef742cb9dbf29d9
+Author: Jamie Riches <jamie.riches@qut.edu.au>
+Date:   Tue Nov 29 23:48:11 2016 +0000
+
+    trying to fix stuff up
+
+commit dac77fd8b472fa75e26aa480c9194d5de68c15ec
+Author: Jamie Riches <jamie.riches@qut.edu.au>
+Date:   Tue Nov 29 23:46:06 2016 +0000
+
+    transport methods
+
+commit bc0ad64cb2d62e41281e6e324f868485042b7e19
+Author: Jamie Riches <jamie.riches@qut.edu.au>
+Date:   Tue Nov 29 23:37:29 2016 +0000
+
+    Extra info on mars
+
+commit 8bde4e598f1893d35d1b120779f0ee50b7d93215
+Author: Jamie Riches <jamie.riches@qut.edu.au>
+Date:   Tue Nov 29 23:35:54 2016 +0000
+
+    Notes on mars as an awesome place
